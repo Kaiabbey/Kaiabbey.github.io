@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Kaiabbey.github.io/static/css/main.10e0e69f.chunk.css",
+    "main.js": "/Kaiabbey.github.io/static/js/main.9bfad40c.chunk.js",
+    "main.js.map": "/Kaiabbey.github.io/static/js/main.9bfad40c.chunk.js.map",
+    "runtime-main.js": "/Kaiabbey.github.io/static/js/runtime-main.a9ee65e3.js",
+    "runtime-main.js.map": "/Kaiabbey.github.io/static/js/runtime-main.a9ee65e3.js.map",
+    "static/js/2.0760b025.chunk.js": "/Kaiabbey.github.io/static/js/2.0760b025.chunk.js",
+    "static/js/2.0760b025.chunk.js.map": "/Kaiabbey.github.io/static/js/2.0760b025.chunk.js.map",
+    "static/js/3.fd10da65.chunk.js": "/Kaiabbey.github.io/static/js/3.fd10da65.chunk.js",
+    "static/js/3.fd10da65.chunk.js.map": "/Kaiabbey.github.io/static/js/3.fd10da65.chunk.js.map",
+    "index.html": "/Kaiabbey.github.io/index.html",
+    "static/css/main.10e0e69f.chunk.css.map": "/Kaiabbey.github.io/static/css/main.10e0e69f.chunk.css.map",
+    "static/js/2.0760b025.chunk.js.LICENSE.txt": "/Kaiabbey.github.io/static/js/2.0760b025.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9ee65e3.js",
+    "static/js/2.0760b025.chunk.js",
+    "static/css/main.10e0e69f.chunk.css",
+    "static/js/main.9bfad40c.chunk.js"
+  ]
+}
